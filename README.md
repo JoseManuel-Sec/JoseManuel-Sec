@@ -8,8 +8,7 @@
 * 🔧 Hardening de sistemas y servicios
 * 🧩 Gestión de accesos y control de privilegios
 * 🛡️ Identificación y análisis de vulnerabilidades<br>
-
-<br> 📌Aquí comparto iniciativas centradas en la exploración, documentación y mejora continua en seguridad, con un enfoque práctico y orientado al desarrollo profesional.<h4>
+<br> Aquí comparto iniciativas centradas en la exploración, documentación y mejora continua en seguridad, con un enfoque práctico y orientado al desarrollo profesional.<h4>
 
 <h2>👨‍💻 Proyectos de ciberseguridad:</h2>
 
