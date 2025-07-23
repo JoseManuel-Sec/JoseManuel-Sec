@@ -1,6 +1,6 @@
 <h1> 👋 Hola, soy José Manuel<br>
 
-<h4><br>🔐 Me interesa la seguridad ofensiva y defensiva, combinando técnicas de pentesting con la remediación de vulnerabilidades y el fortalecimiento de sistemas.<br>
+<h4><br>🔐 Me enfoco en la seguridad ofensiva y defensiva, aplicando técnicas de pentesting para detectar vulnerabilidades y trabajar en su remediación y mitigación.<br>
 
 <br>Me enfoco en aplicar buenas prácticas, automatizar procesos y aprovechar herramientas open source para mejorar la seguridad en sistemas Linux y entornos cloud.<br>
 
