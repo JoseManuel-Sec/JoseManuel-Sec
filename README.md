@@ -15,7 +15,7 @@
 
 - En progreso...
 
-<h2>📺 Certificaciones </h2>
+<h2>📜 Certificaciones </h2>
 
 <h2> 🌐 Contacto:</h2>
 
