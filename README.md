@@ -1,14 +1,6 @@
-<h1> 👋 Hola, soy José Manuel<br>
-<h4><br>Me enfoco en la seguridad ofensiva y defensiva, aplicando técnicas de pentesting para detectar vulnerabilidades, remediarlas y fortalecer los sistemas.<br>
+# 👋 Hola, soy José Manuel<br>
+<h4><br>Profesional en ciberseguridad con enfoque ofensivo y defensivo. Me interesa comprender cómo se originan los riesgos para abordarlos con una mirada técnica, práctica y consciente. Cada proyecto representa una oportunidad para profundizar conocimientos, aplicar buenas prácticas y documentar aprendizajes que aporten a entornos digitales más seguros y confiables.<br>
 
-<br>Me enfoco en aplicar buenas prácticas, automatizar procesos y aprovechar herramientas open source para mejorar la seguridad en sistemas Linux y entornos cloud.<br>
-
-<br>🔎Áreas técnicas de enfoque: <br>
-* Hardening de sistemas y servicios
-* Gestión de accesos y control de privilegios
-* Identificación y análisis de vulnerabilidades<br>
-
-<br>Aquí comparto iniciativas centradas en la exploración, documentación con un enfoque práctico y orientado al desarrollo profesional.<h4>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jose-rebolledo/) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/__JoseManuel_) 
