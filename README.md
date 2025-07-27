@@ -1,4 +1,3 @@
-
 <p align="center">
   <a href="Banner-jm.png" target="_blank">
     <img src="Banner-jm.png" alt="Banner de JM" width="1000" />
